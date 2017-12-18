@@ -1,0 +1,11 @@
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Services\bin\Debug\netstandard2.0\KosmosEvents.Services.deps.json
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Services\bin\Debug\netstandard2.0\KosmosEvents.Services.dll
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Services\obj\Debug\netstandard2.0\KosmosEvents.Services.csproj.CoreCompileInputs.cache
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Services\obj\Debug\netstandard2.0\KosmosEvents.Services.AssemblyInfoInputs.cache
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Services\obj\Debug\netstandard2.0\KosmosEvents.Services.AssemblyInfo.cs
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Services\bin\Debug\netstandard2.0\KosmosEvents.Services.pdb
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Services\obj\Debug\netstandard2.0\KosmosEvents.Services.dll
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Services\obj\Debug\netstandard2.0\KosmosEvents.Services.pdb
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Services\obj\Debug\netstandard2.0\KosmosEvents.Services.csprojResolveAssemblyReference.cache
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Services\bin\Debug\netstandard2.0\KosmosEvents.Data.dll
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Services\bin\Debug\netstandard2.0\KosmosEvents.Data.pdb

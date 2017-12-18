@@ -1,0 +1,16 @@
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\bin\Debug\netcoreapp2.0\KosmosEvents.Web.deps.json
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\bin\Debug\netcoreapp2.0\KosmosEvents.Web.runtimeconfig.json
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\bin\Debug\netcoreapp2.0\KosmosEvents.Web.runtimeconfig.dev.json
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\bin\Debug\netcoreapp2.0\KosmosEvents.Web.dll
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\bin\Debug\netcoreapp2.0\KosmosEvents.Web.pdb
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\obj\Debug\netcoreapp2.0\KosmosEvents.Web.csprojResolveAssemblyReference.cache
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\obj\Debug\netcoreapp2.0\KosmosEvents.Web.csproj.CoreCompileInputs.cache
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\obj\Debug\netcoreapp2.0\KosmosEvents.Web.AssemblyInfoInputs.cache
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\obj\Debug\netcoreapp2.0\KosmosEvents.Web.AssemblyInfo.cs
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\obj\Debug\netcoreapp2.0\KosmosEvents.Web.dll
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\obj\Debug\netcoreapp2.0\KosmosEvents.Web.pdb
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\bin\Debug\netcoreapp2.0\KosmosEvents.Data.dll
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\bin\Debug\netcoreapp2.0\KosmosEvents.Services.dll
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\bin\Debug\netcoreapp2.0\KosmosEvents.Data.pdb
+D:\C# Web 2017\KosmosEvents\KosmosEvents.Web\bin\Debug\netcoreapp2.0\KosmosEvents.Services.pdb
